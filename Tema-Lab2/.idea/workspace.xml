@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="007309ac-be42-4fe9-a09a-2ed3e10694ed" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/corpus1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/corpus2.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/corpus.txt" beforeDir="false" afterPath="$PROJECT_DIR$/corpus.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/corpus1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/corpus1.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/corpus2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/corpus2.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -73,6 +73,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
