@@ -1,0 +1,20 @@
+digraph G{
+edge [dir=forward]
+node [shape=plaintext]
+
+0 [label="0 (None)"]
+0 -> 2 [label="root"]
+1 [label="1 (We)"]
+2 [label="2 (ate)"]
+2 -> 1 [label="nsubj"]
+2 -> 3 [label="obj"]
+2 -> 7 [label="obl"]
+3 [label="3 (octopus)"]
+3 -> 5 [label="conj"]
+4 [label="4 (and)"]
+5 [label="5 (shells)"]
+5 -> 4 [label="cc"]
+6 [label="6 (for)"]
+7 [label="7 (dinner)"]
+7 -> 6 [label="case"]
+}
